@@ -1,0 +1,46 @@
+_repo: Obras_68131
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vega, Garcilaso de la
+    aliases:
+    - De la Vega, Garcilaso
+    - Figueroa, García Suárez de
+    - Figueroa, Garcia Suarez de
+    - De Figueroa, García Suárez
+    - Suárez de Figueroa, García
+    - La Vega, Garcilaso de
+    - Vega, Garcia Laso de la
+    - Lasso de la Vega
+    - Garcilaso de la Vega
+    - Garci-Lasso de la Vega
+    - Vega, García Laso de la
+    - Laso de la Vega
+    birthdate: 1503
+    deathdate: 1536
+    gutenberg_agent_id: '45319'
+    url: http://www.gutenberg.org/2009/agents/45319
+  editor:
+    agent_name: Tomás, Tomás Navarro
+    gutenberg_agent_id: '54623'
+    url: http://www.gutenberg.org/2009/agents/54623
+description: ''
+gutenberg_issued: '2022-05-20'
+identifiers:
+  gutenberg: '68131'
+language: es
+pgterms:marc904: https://archive.org/details/obra00vega
+pgterms:marc905: 20150313122926vega
+pgterms:marc906: '1911'
+pgterms:marc907: es
+production_note: Ramón Pajares Box and the Online Distributed Proofreading Team at
+  https://www.pgdp.net. (This file was produced from images generously made available
+  by The Internet Archive/Canadian Libraries.)
+publication_note: Spain :Ediciones de La Lectura,1911.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Obras
+url: http://www.gutenberg.org/ebooks/68131

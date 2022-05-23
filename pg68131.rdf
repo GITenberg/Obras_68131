@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xml:base="http://www.gutenberg.org/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:pgterms="http://www.gutenberg.org/2009/pgterms/"
+  xmlns:marcrel="http://id.loc.gov/vocabulary/relators/"
+  xmlns:cc="http://web.resource.org/cc/"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dcam="http://purl.org/dc/dcam/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <pgterms:ebook rdf:about="ebooks/68131">
+    <dcterms:title>Obras</dcterms:title>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/68131/68131-h/68131-h.htm">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-05-20T13:06:29</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">634310</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/68131"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N77822a3994f248108835e5038361df08">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/html</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/68131/68131-h.zip">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-05-20T13:07:17</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N71ad67bcfd194e9087d4b391748f2101">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value>application/octet-stream</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">223666</dcterms:extent>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Ndeb23c897b034199be714d02e3ea32ce">
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:isFormatOf rdf:resource="ebooks/68131"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:publisher>Project Gutenberg</dcterms:publisher>
+    <dcterms:creator>
+      <pgterms:agent rdf:about="2009/agents/45319">
+        <pgterms:alias>De la Vega, Garcilaso</pgterms:alias>
+        <pgterms:alias>Figueroa, García Suárez de</pgterms:alias>
+        <pgterms:name>Vega, Garcilaso de la</pgterms:name>
+        <pgterms:alias>Figueroa, Garcia Suarez de</pgterms:alias>
+        <pgterms:alias>De Figueroa, García Suárez</pgterms:alias>
+        <pgterms:alias>Suárez de Figueroa, García</pgterms:alias>
+        <pgterms:alias>La Vega, Garcilaso de</pgterms:alias>
+        <pgterms:alias>Vega, Garcia Laso de la</pgterms:alias>
+        <pgterms:alias>Lasso de la Vega</pgterms:alias>
+        <pgterms:alias>Garcilaso de la Vega</pgterms:alias>
+        <pgterms:alias>Garci-Lasso de la Vega</pgterms:alias>
+        <pgterms:alias>Vega, García Laso de la</pgterms:alias>
+        <pgterms:birthdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1503</pgterms:birthdate>
+        <pgterms:deathdate rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1536</pgterms:deathdate>
+        <pgterms:alias>Laso de la Vega</pgterms:alias>
+      </pgterms:agent>
+    </dcterms:creator>
+    <marcrel:edt>
+      <pgterms:agent rdf:about="2009/agents/54623">
+        <pgterms:name>Tomás, Tomás Navarro</pgterms:name>
+      </pgterms:agent>
+    </marcrel:edt>
+    <pgterms:marc508>Ramón Pajares Box and the Online Distributed Proofreading Team at https://www.pgdp.net. (This file was produced from images generously made available by The Internet Archive/Canadian Libraries.)</pgterms:marc508>
+    <pgterms:marc904>https://archive.org/details/obra00vega</pgterms:marc904>
+    <pgterms:marc906>1911</pgterms:marc906>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/68131/68131-0.txt">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-05-20T13:06:29</dcterms:modified>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N1406d78f58bf4cbdb1fadaa7ba642f36">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">text/plain; charset=us-ascii</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">414886</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/68131"/>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <dcterms:license rdf:resource="license"/>
+    <dcterms:rights>Public domain in the USA.</dcterms:rights>
+    <dcterms:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2022-05-20</dcterms:issued>
+    <dcterms:language>
+      <rdf:Description rdf:nodeID="N07f815d6667841f9896c4eba8adc7723">
+        <rdf:value rdf:datatype="http://purl.org/dc/terms/RFC4646">es</rdf:value>
+      </rdf:Description>
+    </dcterms:language>
+    <pgterms:marc260>Spain :Ediciones de La Lectura,1911.</pgterms:marc260>
+    <pgterms:downloads rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</pgterms:downloads>
+    <dcterms:hasFormat>
+      <pgterms:file rdf:about="https://www.gutenberg.org/files/68131/68131-0.zip">
+        <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2022-05-20T13:07:17</dcterms:modified>
+        <dcterms:extent rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">152981</dcterms:extent>
+        <dcterms:isFormatOf rdf:resource="ebooks/68131"/>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="Nfa5fd26c69434fdd85c9e55d33acd28b">
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+            <rdf:value rdf:datatype="http://purl.org/dc/terms/IMT">application/zip</rdf:value>
+          </rdf:Description>
+        </dcterms:format>
+        <dcterms:format>
+          <rdf:Description rdf:nodeID="N5431d77e18dd41cc8de998e284e5e657">
+            <rdf:value>application/octet-stream</rdf:value>
+            <dcam:memberOf rdf:resource="http://purl.org/dc/terms/IMT"/>
+          </rdf:Description>
+        </dcterms:format>
+      </pgterms:file>
+    </dcterms:hasFormat>
+    <pgterms:marc907>es</pgterms:marc907>
+    <pgterms:marc905>20150313122926vega</pgterms:marc905>
+  </pgterms:ebook>
+  <cc:Work rdf:about="">
+    <cc:license rdf:resource="https://creativecommons.org/publicdomain/zero/1.0/"/>
+    <rdfs:comment>Archives containing the RDF files for *all* our books can be downloaded at
+            https://www.gutenberg.org/wiki/Gutenberg:Feeds#The_Complete_Project_Gutenberg_Catalog</rdfs:comment>
+  </cc:Work>
+</rdf:RDF>
